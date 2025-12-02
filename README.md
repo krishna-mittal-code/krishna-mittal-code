@@ -64,7 +64,7 @@ Modern landing page built with HTML, CSS and animations.
 📁 Repo: Coming soon  
 
 ---
-
+https://github-profile-trophy.vercel.app/krishna-mittal-code=ryo-ma&theme=radical
 
 ---
 
