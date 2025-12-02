@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">Web Developer | Front-end Enthusiast | Learning MERN Stack</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Krishna;Web+Developer;Frontend+Enthusiast;Learning+MERN+Stack&center=true&size=30&width=500&height=60&pause=1000" alt="Typing SVG" />
+</h1>
+
 
 ---
 
