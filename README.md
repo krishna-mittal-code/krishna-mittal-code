@@ -14,24 +14,26 @@
 
 ## 🛠️ Skills & Tools  
 
-### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap / Tailwind  
-- React (Learning)
+### 🌐 **Frontend**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2cf3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### **Backend**
-- Node.js (Learning)  
-- Express.js (Learning)
+### ⚙️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### **Databases**
-- MongoDB (Learning)
+### 🗄️ **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Other Tools**
-- Git & GitHub  
-- VS Code  
-- Figma (Basics)
+### 🛠️ **Other Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -39,7 +41,7 @@
 
 ### ⭐ **Portfolio Website**
 A clean personal portfolio to showcase my work.  
-🔗 *Link:* Coming soon  
+🔗 *Live:* Coming soon  
 📁 *Repo:* Coming soon
 
 ### ⭐ **Responsive Landing Page**
@@ -57,19 +59,27 @@ Modern landing page built with HTML, CSS and animations.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krishna-mittal-code&show_icons=true" alt="stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishna-mittal-code&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krishna-mittal-code&show_icons=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=krishna-mittal-code" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishna-mittal-code&layout=compact" height="170" />
+</p>
+
+---
+
+## 🌱 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-mittal-code&theme=github" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn:** *www.linkedin.com/in/krishna-mittal0001*  
-- **Email:** *engineerkrishna00@gmail.com*  
+- **LinkedIn:** www.linkedin.com/in/krishna-mittal0001  
+- **Email:** engineerkrishna00@gmail.com  
 
 ---
 
-⭐ *Thanks for visiting my profile!*
-
+⭐ *Thanks for visiting my profile!*  
