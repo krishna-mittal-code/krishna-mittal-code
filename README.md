@@ -64,6 +64,11 @@ Modern landing page built with HTML, CSS and animations.
 📁 Repo: Coming soon  
 
 ---
+---
+
+![snake gif](https://github.com/krishna-mittal-code/krishna-mittal-code/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=krishna-mittal-code&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
