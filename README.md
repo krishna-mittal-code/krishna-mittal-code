@@ -64,6 +64,22 @@ Modern landing page built with HTML, CSS and animations.
 📁 Repo: Coming soon  
 
 ---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-mittal-code&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-mittal-code&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krishna-mittal-code&theme=radical&hide_border=true" />
+</p>
+
+---
+
 ---
 
 
