@@ -57,10 +57,11 @@ Modern landing page built with HTML, CSS and animations.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-mittal-code&show_icons=true&theme=default" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-mittal-code&layout=compact&theme=default" alt="languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krishna-mittal-code&show_icons=true" alt="stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishna-mittal-code&layout=compact" alt="languages" />
 </p>
+
 
 ---
 
