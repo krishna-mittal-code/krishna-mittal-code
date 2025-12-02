@@ -57,18 +57,6 @@ Modern landing page built with HTML, CSS and animations.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krishna-mittal-code&show_icons=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=krishna-mittal-code" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishna-mittal-code&layout=compact" height="170" />
-</p>
-
----
-
 ## 🌱 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-mittal-code&theme=github" />
