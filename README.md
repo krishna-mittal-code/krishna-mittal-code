@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Krishna;Web+Developer;Frontend+Enthusiast;Learning+MERN+Stack&center=true&size=30&width=500&height=60&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Krishna;Web+Developer;Frontend+Enthusiast;Turning+ideas+into+code;Building+responsive+websites&center=true&size=35&width=600&height=60&pause=1200" />
 </h1>
+
+<h3 align="center">Web Developer | Front-end Enthusiast | Learning MERN Stack</h3>
+
+---
+
 
 
 ---
