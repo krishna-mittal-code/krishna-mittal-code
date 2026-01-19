@@ -65,8 +65,10 @@ Modern landing page built with HTML, CSS and animations.
 📁 Repo: Coming soon  
 
 ---
+[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=krishna-mittal-code&theme=cyberpunk)](https://github.com/ayushraistudio/github-contribution-showcase)
 
 ## 📊 GitHub Stats  
+
 
 <p align="center">
   <img
