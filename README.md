@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=32&duration=2000&pause=1200&center=true&vCenter=true&width=600&lines=Hi+I'm+Krishna;Web+Developer;Frontend+Enthusiast;Turning+ideas+into+code;Building+responsive+websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=32&duration=2000&pause=1200&center=true&vCenter=true&width=600&lines=Hi+I'm+Krishna;Web+Developer;;Data+Scientist;Turning+ideas+into+code;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Web Developer | Front-end Enthusiast | Learning MERN Stack</h3>
@@ -97,9 +97,7 @@ Modern landing page built with HTML, CSS and animations.
 
 
 ---
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishna-mittal-code&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
